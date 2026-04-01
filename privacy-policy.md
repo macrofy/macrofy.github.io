@@ -1,37 +1,99 @@
 # Privacy Policy
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+This Privacy Policy ("Policy") applies to Macrofy, and Macrofy LLC ("Company") and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to the Company include https://macrofy.com. The Company's application is an AI-powered nutrition software as a service (SaaS) for fitness and wellness apps. By using the Company application, you consent to the data practices described in this statement.
 
+## California Consumer Privacy Act and California Privacy Rights Act
+If you are a California resident, you have the following rights under the California Consumer Privacy Act ("CCPA") and California Privacy Rights Act ("CPRA"):
+- **Right to Know.** You may request details on what personal data we collect, use, and share.
+- **Right to Delete.** You can request deletion of personal data, subject to certain legal exceptions.
+- **Right to Correct.** You may request corrections to inaccurate personal information.
+- **Right to Opt-Out.** You can opt out of the sale or sharing of personal data for advertising.
+- **Right to Restrict Sensitive Data Use.** You may limit the use of sensitive personal information.
+- **Right Against Retaliation.** The Company will not discriminate against you for exercising your rights.
 
-## Collection of Routine Information
+## Collection of your Personal Information
+In order to better provide you with products and services offered, the Company may collect personally identifiable information, such as your:
+- First and last name
+- Email address
+- Phone number
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+If you purchase the Company's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.
 
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services. These may include: 
+(a) registering for an account; 
+(b) entering a sweepstakes or contest sponsored by us or one of our partners; 
+(c) signing up for special offers from selected third parties; 
+(d) sending us an email message; 
+(e) submitting your credit card or other payment information when ordering and purchasing products and services. 
 
-## Cookies
+To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+## Use of your Personal Information
+The Company collects and uses your personal information in the following ways:
+- to operate and deliver the services you have requested
+- to provide you with information, products, or services that you request from us
+- to provide you with notices about your account
+- to carry out the Company's obligations and enforce our rights arising from any contracts entered between you and us, including for billing and collection
+- to notify you about changes to Macrofy or any products or services we offer or provide through it
+- in any other way we may describe when you provide the information
+- for any other purpose with your consent
 
+## Sharing Information with Third Parties
+The Company does not sell, rent, or lease its customer lists to third parties.
 
-## Advertisement and Other Third Parties
+The Company may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to the Company, and they are required to maintain the confidentiality of your information.
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+The Company may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: 
+(a) conform to the edicts of the law or comply with legal process served on the Company or the site; 
+(b) protect and defend the rights or property of the Company; and/or 
+(c) act under exigent circumstances to protect the personal safety of users of the Company, or the public.
 
+## Right to Deletion
+Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
+- Delete your personal information from our records; and
+- Direct any service providers to delete your personal information from their records.
 
-## Links to Third Party Websites
+Please note that we may not be able to comply with requests to delete your personal information if it is necessary to:
+- Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, and provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;
+- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+- Debug to identify and repair errors that impair existing intended functionality;
+- Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+- Comply with the California Electronic Communications Privacy Act;
+- Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;
+- Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
+- Comply with an existing legal obligation; or
+- Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
 
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+## Children Under Thirteen
+The Company does not knowingly collect personally identifiable information from children under the age of 13. If you are under the age of 13, you must ask your parent or guardian for permission to use this application.
 
+## Disconnecting your Company's Account from Third Party Websites
+You will be able to connect your Company's account to third-party accounts. BY CONNECTING YOUR COMPANY'S ACCOUNT TO YOUR THIRD-PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD-PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE THIS FEATURE. You may disconnect your account from a third-party account at any time.
 
-## Security
+## Email Communications
+From time to time, the Company may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication.
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+If you would like to stop receiving marketing or promotional communications via email from the Company, you may opt out of such communications by clicking on the unsubscribe button.
 
+## External Data Storage Sites
+We may store your data on servers provided by third-party hosting vendors with whom we have contracted.
 
-## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
-
+## Changes to This Statement
+The Company reserves the right to change this Policy from time to time. For example, when there are changes in our services, changes in our data protection practices, or changes in the law. When changes to this Policy are significant, we will inform you. You may receive a notice by sending an email to the primary email address specified in your account, by placing a prominent notice on our Macrofy LLC, and/or by updating any privacy information. Your continued use of the application and/or services available after such modifications will constitute your: 
+(a) acknowledgment of the modified Policy; and 
+(b) agreement to abide and be bound by that Policy.
 
 ## Contact Information
+The Company welcomes your questions or comments regarding this Policy. If you believe that the Company has not adhered to this Policy, please contact the Company at:
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+**Macrofy LLC**  
+3343 Peachtree Rd NE, STE 145-283  
+Atlanta, Georgia 30326  
+
+**Email Address:**  
+legal@macrofy.com  
+
+**Phone Number:**  
+404-784-8970  
+
+*Effective as of July 06, 2025*
