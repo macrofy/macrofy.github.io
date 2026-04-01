@@ -1,76 +1,99 @@
-# Privacy Policy Template
+# Privacy Policy
 
+This Privacy Policy ("Policy") applies to Macrofy, and Macrofy LLC ("Company") and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to the Company include https://macrofy.com. The Company's application is an AI-powered nutrition software as a service (SaaS) for fitness and wellness apps. By using the Company application, you consent to the data practices described in this statement.
 
-This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
+## California Consumer Privacy Act and California Privacy Rights Act
+If you are a California resident, you have the following rights under the California Consumer Privacy Act ("CCPA") and California Privacy Rights Act ("CPRA"):
+- **Right to Know.** You may request details on what personal data we collect, use, and share.
+- **Right to Delete.** You can request deletion of personal data, subject to certain legal exceptions.
+- **Right to Correct.** You may request corrections to inaccurate personal information.
+- **Right to Opt-Out.** You can opt out of the sale or sharing of personal data for advertising.
+- **Right to Restrict Sensitive Data Use.** You may limit the use of sensitive personal information.
+- **Right Against Retaliation.** The Company will not discriminate against you for exercising your rights.
 
+## Collection of your Personal Information
+In order to better provide you with products and services offered, the Company may collect personally identifiable information, such as your:
+- First and last name
+- Email address
+- Phone number
 
-## What is a Privacy Policy
+If you purchase the Company's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.
 
-A privacy policy is a description of what you do with personal data.  The critical things to describe in the policy are how you and your website or app collect, use, store, and share or disclose information about people. Providing a privacy policy also helps your users understand what happens to information about them.
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services. These may include: 
+(a) registering for an account; 
+(b) entering a sweepstakes or contest sponsored by us or one of our partners; 
+(c) signing up for special offers from selected third parties; 
+(d) sending us an email message; 
+(e) submitting your credit card or other payment information when ordering and purchasing products and services. 
 
-**Note:** A Privacy Policy is not the same as the Terms and Conditions agreement. A Terms and Conditions is the agreement where you include the rules and guidelines that users must agree to in order to use your website or app.
+To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
+## Use of your Personal Information
+The Company collects and uses your personal information in the following ways:
+- to operate and deliver the services you have requested
+- to provide you with information, products, or services that you request from us
+- to provide you with notices about your account
+- to carry out the Company's obligations and enforce our rights arising from any contracts entered between you and us, including for billing and collection
+- to notify you about changes to Macrofy or any products or services we offer or provide through it
+- in any other way we may describe when you provide the information
+- for any other purpose with your consent
 
-## What is a Personal Data
+## Sharing Information with Third Parties
+The Company does not sell, rent, or lease its customer lists to third parties.
 
-Personal data is any kind of data or information that can be considered personal (identifies an individual):
+The Company may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to the Company, and they are required to maintain the confidentiality of your information.
 
-* First and last name
-* Email address
-* Billing and shipping address
-* Credit card information
-* And so on
+The Company may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: 
+(a) conform to the edicts of the law or comply with legal process served on the Company or the site; 
+(b) protect and defend the rights or property of the Company; and/or 
+(c) act under exigent circumstances to protect the personal safety of users of the Company, or the public.
 
+## Right to Deletion
+Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
+- Delete your personal information from our records; and
+- Direct any service providers to delete your personal information from their records.
 
-## When is a Privacy Policy required
+Please note that we may not be able to comply with requests to delete your personal information if it is necessary to:
+- Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, and provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;
+- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+- Debug to identify and repair errors that impair existing intended functionality;
+- Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+- Comply with the California Electronic Communications Privacy Act;
+- Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;
+- Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
+- Comply with an existing legal obligation; or
+- Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
 
-The Privacy Policy is required by law if you collect personal data. One should be provided where your website or app does anything with personal data. A Privacy Policy is required regardless of the type of platform your business operates on or what kind of industry you’re in:
+## Children Under Thirteen
+The Company does not knowingly collect personally identifiable information from children under the age of 13. If you are under the age of 13, you must ask your parent or guardian for permission to use this application.
 
-* Website
-* WordPress blog, or any other platform: Joomla, Drupal etc
-* E-commerce store
-* Mobile app: iOS, Android or Windows Phone
-* Facebook app
-* Desktop app
-* Digital product
+## Disconnecting your Company's Account from Third Party Websites
+You will be able to connect your Company's account to third-party accounts. BY CONNECTING YOUR COMPANY'S ACCOUNT TO YOUR THIRD-PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD-PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE THIS FEATURE. You may disconnect your account from a third-party account at any time.
 
+## Email Communications
+From time to time, the Company may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication.
 
-## How this Privacy Policy Template works
+If you would like to stop receiving marketing or promotional communications via email from the Company, you may opt out of such communications by clicking on the unsubscribe button.
 
-This document has been drafted in Markdown (MD) and in plain text (TXT), and can be converted to HTML using a huge number of open source and commercially available tools.
+## External Data Storage Sites
+We may store your data on servers provided by third-party hosting vendors with whom we have contracted.
 
-Elements that need to be filled in have been marked up with double brackets, as follows:
+## Changes to This Statement
+The Company reserves the right to change this Policy from time to time. For example, when there are changes in our services, changes in our data protection practices, or changes in the law. When changes to this Policy are significant, we will inform you. You may receive a notice by sending an email to the primary email address specified in your account, by placing a prominent notice on our Macrofy LLC, and/or by updating any privacy information. Your continued use of the application and/or services available after such modifications will constitute your: 
+(a) acknowledgment of the modified Policy; and 
+(b) agreement to abide and be bound by that Policy.
 
-	[["website" or "app"]]
-	[["we" or "I"]]
-	[["us" or "me"]]
-	[["our" or "my"]]
+## Contact Information
+The Company welcomes your questions or comments regarding this Policy. If you believe that the Company has not adhered to this Policy, please contact the Company at:
 
-Make sure to find and fill in them all!
+**Macrofy LLC**  
+3343 Peachtree Rd NE, STE 145-283  
+Atlanta, Georgia 30326  
 
+**Email Address:**  
+legal@macrofy.com  
 
-## Disclaimer
+**Phone Number:**  
+404-784-8970  
 
-You are free to use it on your own website or app. But before using this Privacy Policy Template you should be aware that you are responsible for its contents when published to your own website or app and that includes the accuracy of information.
-
-This Privacy Policy Template is not legal advice, and is no substitute for a real live lawyer. Some places legally require that you have a privacy policy, and require that you describe certain things in it. Some places have (very specific) rules about what you are and aren't allowed to do with info about users. You should definitely talk with a lawyer about all this stuff, and they should definitely read and review your policy.
-
-You should also know that this Privacy Policy Template is provided without any warranty, express or implied, to the fullest extent possible.
-
-
-## License
-
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
-
-
-## Author
-
-Arthur Garegnyan
-
-* Email: arthurgareginyan@gmail.com
-
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
-
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
-
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+*Effective as of July 06, 2025*
